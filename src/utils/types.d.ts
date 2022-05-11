@@ -1,6 +1,5 @@
 export interface ICifra {
-    text_plano:string;
-    clave:string;
-  
-
+    text_plano: string;
+    clave: string;
 }
+
